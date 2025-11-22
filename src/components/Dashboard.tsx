@@ -121,7 +121,6 @@ const Dashboard = () => {
               border: "2px solid white",
               cursor: "pointer",
             }}
-            onClick={() => (window.location.href = "/profile")}
             title="Open profile"
           >
             JD
